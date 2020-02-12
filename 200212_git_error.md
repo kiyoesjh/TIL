@@ -53,11 +53,11 @@ error: could not lock config file C:/path/to/my/home/dir/.gitconfig: File exists
 
 하나는 `sportlight`  에서  `keychain Access.app` 을 검색, 실행하면 많은 리스트가 나오는데 스크롤을 쭉내리면 
 
-![keychainAccess img](/Users/seongjeonghye/Documents/kiyoesjh/keychainAccess_img1.png)
+![keychainAccess img](img/keychainAccess_img1.png)
 
 `gitHub.com` 을 클릭하면
 
-![keychainAccess img](/Users/seongjeonghye/Documents/kiyoesjh/keychainAccess_img2.png)
+![keychainAccess img](img/keychainAccess_img2.png)
 
 그 전에 사용하던 계정이 나오는데 이걸 새로운 계정으로 변경해주고 암호 보기를 체크하면 비밀번호를 입력하라고 뜨는데 입력하고 나면 변경사항 저장이 활성화된다. 클릭! 하면 된다.
 
@@ -78,7 +78,7 @@ $ git config --global user.email "새로운 이메일"
 
 아무런 에러가 뜨지 않는다.
 
-![terminal img](/Users/seongjeonghye/Documents/kiyoesjh/terminal_img1.png)
+![terminal img](img/terminal_img1.png)
 
 확인해보니 변경되었다.
 
